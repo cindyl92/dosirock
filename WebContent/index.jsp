@@ -23,6 +23,8 @@
 </head>
 <body>
 
+<h2 href="jsp/manager/manageDosirock.jsp">도시락 관리 페이지</h2>
+
 <!-- PRE LOADER 
 
 <div class="preloader">

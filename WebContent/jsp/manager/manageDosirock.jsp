@@ -8,5 +8,12 @@
 </head>
 <body>
 	<h2>도시락 관리 페이지</h2>
+	
+	<select name="viewOption">
+		<option value='today'>오늘</option>
+		<option vlaue='week'>일주일</option>
+	</select>
+
+	
 </body>
 </html>
