@@ -17,6 +17,20 @@
 	<button>도시락 등록/수정</button>
 	<button>도시락 수령</button>
 	
+	<table>
+		<tr>
+			<td>날짜</td>
+			<td>메뉴</td>
+			<td>수량</td>
+			<td>수량</td>
+		</tr>
+	</table>
+	
+	<div id="table" style="vertical-align:top;" >
+		<div id="tableDiv">
+		</div>
+	</div>
 	
 </body>
 </html>
+
