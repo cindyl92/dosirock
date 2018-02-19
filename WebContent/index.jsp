@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="en">
+
 <head>
 
 <meta charset="UTF-8">
@@ -23,7 +23,7 @@
 </head>
 <body>
 
-<h2 href="jsp/manager/manageDosirock.jsp">도시락 관리 페이지</h2>
+<a href="jsp/manager/manageDosirock.jsp">도시락 관리 페이지</a>
 
 <!-- PRE LOADER 
 

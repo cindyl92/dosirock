@@ -11,9 +11,12 @@
 	
 	<select name="viewOption">
 		<option value='today'>오늘</option>
-		<option vlaue='week'>일주일</option>
+		<option value='week'>일주일</option>
 	</select>
 
+	<button>도시락 등록/수정</button>
+	<button>도시락 수령</button>
+	
 	
 </body>
 </html>
