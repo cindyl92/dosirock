@@ -24,6 +24,7 @@
 <body>
 
 <a href="jsp/manager/manageDosirock.jsp">도시락 관리 페이지</a>
+<a href="jsp/user/userReservation.jsp">예약</a>
 
 <!-- PRE LOADER 
 
